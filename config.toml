@@ -1,4 +1,4 @@
-baseURL = 'https://askpradana.github.io'
+baseURL = 'https://askpradana.github.io/blog'
 languageCode = 'en-us'
 title = 'Muezza Is Sleeping'
 theme = "PaperMod"

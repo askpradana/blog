@@ -6,7 +6,7 @@ draft: false
 TocOpen: true
 hidemeta: false # show tanggal post
 comments: false
-description: "Description text coming soon"
+description: "Buat lu yang mau akses website tapi kena blokir, kemari"
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false

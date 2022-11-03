@@ -1,6 +1,6 @@
 ---
 title: "Cari Aplikasi Serupa"
-date: 2022-11-03T07:59:55+07:00
+date: 2022-11-15T01:29:11.000Z
 draft: true
 TocOpen: true
 hidemeta: false # show tanggal post

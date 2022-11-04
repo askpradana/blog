@@ -1,6 +1,6 @@
 ---
 title: "Iklan? Apa itu iklan"
-date: 2022-11-13T01:02:30.000Z
+date: 2022-11-07T10:47:34.000Z
 draft: false
 TocOpen: true
 hidemeta: false # show tanggal post

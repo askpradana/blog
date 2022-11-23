@@ -1,7 +1,7 @@
 ---
 title: "Cari Aplikasi Serupa"
 date: 2022-11-09T10:47:34.000Z
-draft: true
+draft: false
 TocOpen: true
 hidemeta: false # show tanggal post
 comments: false

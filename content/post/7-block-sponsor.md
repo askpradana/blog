@@ -1,7 +1,7 @@
 ---
-title: "7 Block Sponsor"
-date: 2022-11-25T07:07:17+07:00
-draft: true
+title: "Blok iklan dalam video"
+date: 2022-11-15T01:46:44.000Z
+draft: false
 TocOpen: true
 hidemeta: false # show tanggal post
 comments: false

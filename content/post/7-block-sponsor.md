@@ -1,6 +1,6 @@
 ---
 title: "Blok iklan dalam video"
-date: 2022-11-15T01:46:44.000Z
+date: 2022-11-17T01:51:23.000Z
 draft: false
 TocOpen: true
 hidemeta: false # show tanggal post

@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Muezza Is Sleeping</title>
+    <title>Naufaldy Pradana</title>
     <link>https://askpradana.github.io/</link>
-    <description>Recent content on Muezza Is Sleeping</description>
+    <description>Recent content on Naufaldy Pradana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Nov 2022 01:51:23 +0000</lastBuildDate><atom:link href="https://askpradana.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Sep 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://askpradana.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Writer</title>
+      <link>https://askpradana.github.io/gallery/1-content-writing/</link>
+      <pubDate>Mon, 04 Sep 2023 01:50:43 +0000</pubDate>
+      
+      <guid>https://askpradana.github.io/gallery/1-content-writing/</guid>
+      <description>Hey I also do content writing, Im not sure where to go for now, but I have some draft ready to publish but not now yet. Take a look here at my medium page</description>
+    </item>
+    
     <item>
       <title>Blok iklan dalam video</title>
       <link>https://askpradana.github.io/post/7-block-sponsor/</link>
@@ -71,12 +80,22 @@
     </item>
     
     <item>
-      <title></title>
+      <title>About me</title>
       <link>https://askpradana.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://askpradana.github.io/about/</guid>
-      <description>Coming soon Masih bingung mau ditulis apa</description>
+      <description>Hello, I&amp;rsquo;m Naufaldy Pradana, a passionate software developer specializing in mobile app development. My expertise revolves around the following:
+Tech stack Flutter: I excel in Flutter, where I&amp;rsquo;ve mastered deep linking, REST API integration, and proficiently managed state using tools like GetX and Provider. I also have a knack for converting design concepts into code, a skill highly sought after in the industry. Moreover, my commitment to clear and concise documentation ensures smooth collaboration between technical and non-technical team members.</description>
+    </item>
+    
+    <item>
+      <title>My Current Day Job</title>
+      <link>https://askpradana.github.io/gallery/2-current-day-job/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://askpradana.github.io/gallery/2-current-day-job/</guid>
+      <description>In my current role, I bring over three years of expertise in Flutter, a versatile and dynamic framework for app development. My proficiency extends to both Flutter 1 and Flutter 2, allowing me to seamlessly adapt to any version. I specialize in creating features from scratch, efficiently maintaining legacy code, and swiftly making necessary modifications. This extensive experience with Flutter has honed my ability to navigate its intricacies, ensuring robust and reliable app development.</description>
     </item>
     
   </channel>

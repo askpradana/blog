@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Work on Naufaldy Pradana</title>
+    <link>https://askpradana.github.io/gallery/</link>
+    <description>Recent content in My Work on Naufaldy Pradana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Sep 2023 01:50:43 +0000</lastBuildDate><atom:link href="https://askpradana.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Writer</title>
+      <link>https://askpradana.github.io/gallery/1-content-writing/</link>
+      <pubDate>Mon, 04 Sep 2023 01:50:43 +0000</pubDate>
+      
+      <guid>https://askpradana.github.io/gallery/1-content-writing/</guid>
+      <description>Hey I also do content writing, Im not sure where to go for now, but I have some draft ready to publish but not now yet. Take a look here at my medium page</description>
+    </item>
+    
+    <item>
+      <title>My Current Day Job</title>
+      <link>https://askpradana.github.io/gallery/2-current-day-job/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://askpradana.github.io/gallery/2-current-day-job/</guid>
+      <description>In my current role, I bring over three years of expertise in Flutter, a versatile and dynamic framework for app development. My proficiency extends to both Flutter 1 and Flutter 2, allowing me to seamlessly adapt to any version. I specialize in creating features from scratch, efficiently maintaining legacy code, and swiftly making necessary modifications. This extensive experience with Flutter has honed my ability to navigate its intricacies, ensuring robust and reliable app development.</description>
+    </item>
+    
+  </channel>
+</rss>

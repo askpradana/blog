@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://askpradana.github.io/post/7-block-sponsor/</loc>
-    <lastmod>2022-11-17T01:51:23+00:00</lastmod>
+    <loc>https://askpradana.github.io/post/</loc>
+    <lastmod>2023-09-06T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askpradana.github.io/</loc>
-    <lastmod>2022-11-17T01:51:23+00:00</lastmod>
+    <lastmod>2023-09-06T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://askpradana.github.io/post/</loc>
+    <loc>https://askpradana.github.io/gallery/1-content-writing/</loc>
+    <lastmod>2023-09-04T01:50:43+00:00</lastmod>
+  </url><url>
+    <loc>https://askpradana.github.io/gallery/</loc>
+    <lastmod>2023-09-04T01:50:43+00:00</lastmod>
+  </url><url>
+    <loc>https://askpradana.github.io/post/7-block-sponsor/</loc>
     <lastmod>2022-11-17T01:51:23+00:00</lastmod>
   </url><url>
     <loc>https://askpradana.github.io/post/6-download-video-youtube/</loc>
@@ -30,9 +36,10 @@
     <lastmod>2022-10-25T06:39:00+00:00</lastmod>
   </url><url>
     <loc>https://askpradana.github.io/about/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://askpradana.github.io/categories/</loc>
+  </url><url>
+    <loc>https://askpradana.github.io/gallery/2-current-day-job/</loc>
   </url><url>
     <loc>https://askpradana.github.io/tags/</loc>
   </url>

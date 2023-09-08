@@ -1,12 +1,31 @@
 baseURL = 'https://askpradana.github.io'
 languageCode = 'en-us'
-title = 'Muezza Is Sleeping'
+title = 'Naufaldy Pradana'
 theme = "PaperMod"
 
-[menu]
-[[menu.main]]
-  identifier = 'about'
-  name = 'about'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/about/'
-  weight = -110
+[params]
+  [params.profileMode]
+    enabled = true
+    title = "Naufaldy Pradana" # optional default will be site title
+    subtitle = "Personal blog"
+    imageUrl = "https://drive.google.com/uc?export=view&id=13gjlmGsAYAQK6I8qAjWdcjp7zQ5apdyy" # optional
+    imageTitle = "This thing should show my face" # optional
+    imageWidth = 120 # custom size
+    imageHeight = 120 # custom size
+
+    [[params.profileMode.buttons]]
+      name = "About me"
+      url = "/about"
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/post"
+    [[params.profileMode.buttons]]
+      name = "My Work"
+      url = "/gallery"
+
+  [[params.socialIcons]] # optional
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/nfldyprdn/"
+  [[params.socialIcons]]
+    name = "Github"
+    url = "https://www.github.com/askpradana"
